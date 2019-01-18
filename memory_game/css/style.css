@@ -97,3 +97,15 @@ font-size: 0;
 	color: #F15B31;
 	font-weight: 700;
 }
+
+#reset-button {
+	background-color: #00A6B3;
+	color: #FFFFFF;
+	border: 0;
+	border-radius: 4px;
+	width: 75px;
+	padding: 10px 10px;
+	font-size: 16px;
+}
+
+
